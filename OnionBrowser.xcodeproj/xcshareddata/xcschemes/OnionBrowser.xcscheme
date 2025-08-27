@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "01801E911A32CA2A002B4718"
-               BuildableName = "OnionBrowser.app"
-               BlueprintName = "OnionBrowser"
-               ReferencedContainer = "container:OnionBrowser.xcodeproj">
+               BuildableName = "PartzkohBrowser.app"
+               BlueprintName = "PartzkohBrowser"
+               ReferencedContainer = "container:PartzkohBrowser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -44,9 +44,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "01801E911A32CA2A002B4718"
-            BuildableName = "OnionBrowser.app"
-            BlueprintName = "OnionBrowser"
-            ReferencedContainer = "container:OnionBrowser.xcodeproj">
+            BuildableName = "PartzkohBrowser.app"
+            BlueprintName = "PartzkohBrowser"
+            ReferencedContainer = "container:PartzkohBrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -61,9 +61,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "01801E911A32CA2A002B4718"
-            BuildableName = "OnionBrowser.app"
-            BlueprintName = "OnionBrowser"
-            ReferencedContainer = "container:OnionBrowser.xcodeproj">
+            BuildableName = "PartzkohBrowser.app"
+            BlueprintName = "PartzkohBrowser"
+            ReferencedContainer = "container:PartzkohBrowser.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
