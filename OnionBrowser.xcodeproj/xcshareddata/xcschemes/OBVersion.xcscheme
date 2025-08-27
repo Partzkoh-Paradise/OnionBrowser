@@ -17,7 +17,7 @@
                BlueprintIdentifier = "8AC3B3A721700AD300E0CB4A"
                BuildableName = "OBVersion"
                BlueprintName = "OBVersion"
-               ReferencedContainer = "container:OnionBrowser.xcodeproj">
+               ReferencedContainer = "container:PartzkohBrowser.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -52,7 +52,7 @@
             BlueprintIdentifier = "8AC3B3A721700AD300E0CB4A"
             BuildableName = "OBVersion"
             BlueprintName = "OBVersion"
-            ReferencedContainer = "container:OnionBrowser.xcodeproj">
+            ReferencedContainer = "container:PartzkohBrowser.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
