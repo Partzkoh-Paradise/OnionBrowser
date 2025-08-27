@@ -1,7 +1,7 @@
 [main]
-host = https://www.transifex.com
+host =partzkoh18 https://www.transifex.com
 
-[onion-browser.localizablestrings]
+[Partzkoh-browser.localizablestrings]
 file_filter = Resources/<lang>.lproj/Localizable.strings
 minimum_perc = 50
 source_file = Resources/Base.lproj/Localizable.strings
@@ -12,7 +12,7 @@ trans.pt_PT = Resources/pt-PT.lproj/Localizable.strings
 trans.tr_TR = Resources/tr-TR.lproj/Localizable.strings
 type = STRING
 
-[onion-browser.localizable-stringsdict]
+[Partzkoh-browser.localizable-stringsdict]
 file_filter = Resources/<lang>.lproj/Localizable.stringsdict
 minimum_perc = 0
 source_file = Resources/en.lproj/Localizable.stringsdict
@@ -23,7 +23,7 @@ trans.pt_PT = Resources/pt-PT.lproj/Localizable.stringsdict
 trans.tr_TR = Resources/tr-TR.lproj/Localizable.stringsdict
 type = STRINGSDICT
 
-[onion-browser.infoplist-strings]
+[Partzkoh-browser.infoplist-strings]
 file_filter = Resources/<lang>.lproj/InfoPlist.strings
 minimum_perc = 75
 source_file = Resources/en.lproj/InfoPlist.strings
@@ -34,7 +34,7 @@ trans.pt_PT = Resources/pt-PT.lproj/InfoPlist.strings
 trans.tr_TR = Resources/tr-TR.lproj/InfoPlist.strings
 type = STRINGS
 
-[onion-browser.security-levels]
+[Partzkoh-browser.security-levels]
 file_filter = Resources/<lang>.lproj/security-levels.html
 minimum_perc = 50
 source_file = Resources/Base.lproj/security-levels.html
@@ -45,7 +45,7 @@ trans.pt_PT = Resources/pt-PT.lproj/security-levels.html
 trans.tr_TR = Resources/tr-TR.lproj/security-levels.html
 type = HTML
 
-[onion-browser.subtitle]
+[Partzkoh-browser.subtitle]
 file_filter = fastlane/metadata/<lang>/subtitle.txt
 minimum_perc = 100
 source_file = fastlane/metadata/en-US/subtitle.txt
@@ -72,7 +72,7 @@ trans.zh-Hans = fastlane/metadata_unused/zh-Hans/subtitle.txt
 trans.zh-Hant = fastlane/metadata_unused/zh-Hant/subtitle.txt
 type = TXT
 
-[onion-browser.keywords]
+[Partzkoh-browser.keywords]
 file_filter = fastlane/metadata/<lang>/keywords.txt
 minimum_perc = 75
 source_file = fastlane/metadata/en-US/keywords.txt
@@ -99,7 +99,7 @@ trans.zh-Hans = fastlane/metadata_unused/zh-Hans/keywords.txt
 trans.zh-Hant = fastlane/metadata_unused/zh-Hant/keywords.txt
 type = TXT
 
-[onion-browser.description]
+[Partzkoh-browser.description]
 file_filter = fastlane/metadata/<lang>/description.txt
 minimum_perc = 75
 source_file = fastlane/metadata/en-US/description.txt
@@ -126,7 +126,7 @@ trans.zh-Hans = fastlane/metadata_unused/zh-Hans/description.txt
 trans.zh-Hant = fastlane/metadata_unused/zh-Hant/description.txt
 type = TXT
 
-[onion-browser.release-notes]
+[Partzkoh-browser.release-notes]
 file_filter = fastlane/metadata/<lang>/release_notes.txt
 minimum_perc = 75
 source_file = fastlane/metadata/en-US/release_notes.txt
