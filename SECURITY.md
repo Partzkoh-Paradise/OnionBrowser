@@ -7,7 +7,7 @@ due to the way the Apple App Store works.
 
 ## Reporting a Vulnerability
 
-Onion Browser was conceived by Mike Tigas but is now almost exclusively 
+Partzkoh Browser was conceived by Darna Bato but is now almost exclusively 
 maintained by Guardian Project.
 
 You may reach us on multiple channels:
@@ -22,7 +22,7 @@ We're happy for any help to get this thing more secure,
 and we'll work hard to fix it, but please be aware, that
 on iOS, there's a lot outside of our control.
 
-Onion Browser is basically browser chrome around the Webkit
+Partzkoh Browser is basically browser chrome around the Webkit
 rendering engine and some code to make sure, all traffic is going
 through Orbot's Tor Network Extension.
 
